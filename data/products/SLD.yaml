@@ -2607,7 +2607,7 @@ products:
   Secret Lair Commander Deck Goblin Storm:
     category: DECK
     subtype: COMMANDER
-    release_date: '2026-05-22'
+    release_date: '2026-05-19'
     identifiers:
       cardKingdomId: '327161'
       cardtraderId: '390097'
@@ -2618,6 +2618,10 @@ products:
       - foil: true
         name: Moggcatcher
         number: 7081
+        set: sld
+      - foil: true
+        name: Zada, Hedron Grinder
+        number: 2423
         set: sld
       card_count: 100
       deck:
@@ -2672,18 +2676,25 @@ products:
   Secret Lair Commander Deck Odds and Ends:
     category: DECK
     subtype: COMMANDER
-    release_date: '2026-09-28'
+    release_date: '2026-09-29'
     identifiers:
       cardtraderId: '415915'
       mcmId: '914215'
       tcgplayerProductId: '721361'
     contents:
+      card:
+      - foil: true
+        name: Perplexing Chimera
+        number: 7039
+        set: sld
+      - foil: true
+        name: Yennett, Cryptic Sovereign
+        number: 1019
+        set: sld
       card_count: 100
       deck:
       - name: Odds and Ends
         set: sld
-      other:
-      - name: foil Perplexing Chimera (7039)
   Secret Lair Commander Deck Raining Cats and Dogs:
     category: DECK
     subtype: COMMANDER
@@ -5766,7 +5777,7 @@ products:
   Secret Lair Drop Dwarf Fortress Create New World:
     category: BOX_SET
     subtype: SECRET_LAIR
-    release_date: '2026-05-12'
+    release_date: '2026-06-08'
     identifiers:
       cardKingdomId: '326858'
       cardtraderId: '388497'
@@ -5783,7 +5794,7 @@ products:
   Secret Lair Drop Dwarf Fortress Create New World Foil:
     category: BOX_SET
     subtype: SECRET_LAIR
-    release_date: '2026-05-12'
+    release_date: '2026-06-08'
     identifiers:
       cardKingdomId: '326857'
       tcgplayerProductId: '691188'
@@ -8893,7 +8904,7 @@ products:
   Secret Lair Drop Marvels Deadpool I Fixed It (Youre Welcome):
     category: BOX_SET
     subtype: SECRET_LAIR
-    release_date: '2026-04-06'
+    release_date: '2026-04-02'
     identifiers:
       cardKingdomId: '325638'
       cardtraderId: '381507'
@@ -8911,7 +8922,7 @@ products:
   Secret Lair Drop Marvels Deadpool I Fixed It (Youre Welcome) Foil:
     category: BOX_SET
     subtype: SECRET_LAIR
-    release_date: '2026-04-06'
+    release_date: '2026-04-02'
     identifiers:
       cardKingdomId: '325637'
       hareruyaId: '189909'
@@ -8927,7 +8938,7 @@ products:
   Secret Lair Drop Marvels Deadpool I Fixed It (Youre Welcome) Pool Party Dazzle Foil:
     category: BOX_SET
     subtype: SECRET_LAIR
-    release_date: '2026-04-06'
+    release_date: '2026-04-02'
     identifiers:
       cardKingdomId: '325639'
       cardtraderId: '381508'
@@ -16569,7 +16580,7 @@ products:
   Secret Lair Drop Viva Las Rakdos:
     category: BOX_SET
     subtype: SECRET_LAIR
-    release_date: '2026-04-13'
+    release_date: '2026-04-28'
     identifiers:
       cardtraderId: '400478'
       tcgplayerProductId: '689836'
@@ -17169,7 +17180,7 @@ products:
   Secret Lair Festival in a Box Las Vegas 2026 Bundle:
     category: BOX_SET
     subtype: SECRET_LAIR_BUNDLE
-    release_date: '2026-05-01'
+    release_date: '2026-04-28'
     identifiers:
       cardtraderId: '384937'
       mcmId: '883463'
